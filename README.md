@@ -2,9 +2,8 @@
 - 👀 I’m interested in federated learning, machine learning, and edge intelligence.
 - 🌱 I’m currently a Ph.D. candidate at HIT.
 - 💞️ I’m looking to collaborate on federated learning.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me lixd@stu.hit.edu.cn
+
 
 <!---
 xdlirz/xdlirz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
